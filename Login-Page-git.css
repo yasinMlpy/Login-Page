@@ -1,0 +1,48 @@
+#table-login{
+    border: 1px solid black;
+    margin: 150px auto;
+    width: 350px;
+    height: 320px;
+    border-radius: 20px;
+    background-color: rgb(105, 105, 105);
+    box-shadow: 0 0 20px 5px rgba(21, 148, 207, 0.6);
+    text-align: center;
+    padding:100px auto;
+}
+
+body{
+    background-image: url("RD3UwQaA05vAyg6H7LbvGb7Hft4vQu.jpg");
+}
+
+
+input{
+    color: white;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    height: 19px;
+}
+
+.row{
+    color: white;
+}
+
+#id-text{
+    color: rgb(85, 26, 139);
+}
+
+#submit{
+    color: black;    
+    display: inline-block;
+    margin:0px auto;
+    width: 55px;
+    height: 24px;
+}
+
+#submit:hover{
+    background-color: rgb(131, 74, 184);
+}
+
+label{
+    display: inline-block;
+    width: 80px;
+}
